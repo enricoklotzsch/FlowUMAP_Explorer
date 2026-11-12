@@ -1,0 +1,11 @@
+.DS_Store
+.venv/
+.venv311/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+flow_umap_analysis/results/
+flow_umap_analysis/tmp_uploaded_wsp/
+*.log
